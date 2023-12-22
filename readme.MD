@@ -13,9 +13,9 @@ Choose the HTTP method (e.g., POST or GET) depending on the operation you want t
 
 # Enter Request URL:
 
-Set the request URL to http://localhost:4000/login for login,
-http://localhost:4000/transfer for a fund transfer,
-or http://localhost:4000/user/{phoneNum} for displaying user information.
+Set the request URL to <br> http://localhost:4000/login for login,
+<br> http://localhost:4000/transfer for a fund transfer,
+<br> http://localhost:4000/user/{phoneNum} for displaying user information.
 
 # Set Request Headers:
 
